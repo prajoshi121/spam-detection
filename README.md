@@ -1,7 +1,7 @@
 Spam Detection using NLP & Machine Learning:-
 A simple machine learning project that detects whether a message is spam or ham using Natural Language Processing (NLP) techniques and a Multinomial Naive Bayes classifier.
 
-=> Features
+=> Features:->
 Dataset loading & cleaning
 Tokenization and lowercase conversion
 Stopword removal
@@ -11,7 +11,7 @@ Train–test split
 Naive Bayes model training
 Classification report (precision, recall, f1-score)
 
-=> Technologies Used
+=> Technologies Used:->
 Python
 Pandas
 NLTK
